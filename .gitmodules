@@ -1,0 +1,3 @@
+[submodule "hashconnect"]
+	path = hashconnect
+	url = https://github.com/neointeraction/hashconnect
